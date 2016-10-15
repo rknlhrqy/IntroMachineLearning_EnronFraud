@@ -1,0 +1,3 @@
+['poi', 'exercised_stock_options', 'salary']
+Training starts at: 2016-10-14 23:01:26
+Training ends at: 2016-10-14 23:01:26
